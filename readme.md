@@ -1,8 +1,12 @@
 # [Zeit Day SF 2018](https://zeit.co/day)
 
-## [Online Slides](http://henryzoo.com/in-pursuit-of-open-source/)
+## Slides
 
-## [Stream link](https://youtu.be/XzusKDb9cHs?t=15m34s)
+[In Pursuit of Open Source](http://henryzoo.com/in-pursuit-of-open-source/)
+
+## [Stream Link](https://youtu.be/XzusKDb9cHs?t=15m34s) ~20min
+
+[![](talk.png)](https://youtu.be/XzusKDb9cHs?t=15m34s)
 
 ## Other Related Talks
 
