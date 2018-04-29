@@ -1,6 +1,6 @@
 # [Zeit Day SF 2018](https://zeit.co/day)
 
-## [Slides](http://henryzoo.com/in-pursuit-of-open-source)
+## [Slides](http://henryzoo.com/in-pursuit-of-open-source/)
 
 ## Video TBD
 
