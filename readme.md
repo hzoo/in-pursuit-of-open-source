@@ -2,14 +2,13 @@
 
 ## [Slides](http://henryzoo.com/in-pursuit-of-open-source/)
 
-## Video TBD
-
-> [Stream link](https://youtu.be/XzusKDb9cHs?t=15m34s)
+## [Stream link](https://youtu.be/XzusKDb9cHs?t=15m34s)
 
 ## Other Related Talks
 
 - JSConf EU 2017: https://github.com/hzoo/maintaining-an-oss-project
 - React Rally 2017: https://github.com/hzoo/so-how-does-babel-even-work
+- React Boston 2017: https://github.com/hzoo/maintainer-heal-thyself
 
 ## Getting involved in Babel
 - [Babel Org on Github](https://github.com/babel)
