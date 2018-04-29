@@ -4,7 +4,7 @@
 
 ## Video TBD
 
-> [Stream link](https://youtu.be/XzusKDb9cHs?t=2h16m9s)
+> [Stream link](https://youtu.be/XzusKDb9cHs?t=15m34s)
 
 ## Other Related Talks
 
