@@ -1,10 +1,8 @@
 # [Zeit Day SF 2018](https://zeit.co/day)
 
-## [Slides](http://henryzoo.com/in-pursuit-of-open-source/) | [Stream Link](https://www.pscp.tv/zeithq/1BRKjrvoyYZKw?t=36m19s) 20min
+## [Slides](http://henryzoo.com/in-pursuit-of-open-source/) | [Stream](https://www.pscp.tv/zeithq/1BRKjrvoyYZKw?t=36m19s) (20min) | Video TBD
 
 [![](talk.png)](https://www.pscp.tv/zeithq/1BRKjrvoyYZKw?t=36m19s)
-
-## Video TBD
 
 ## Other Related Talks
 
