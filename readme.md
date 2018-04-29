@@ -2,9 +2,11 @@
 
 ## Slides: [In Pursuit of Open Source](http://henryzoo.com/in-pursuit-of-open-source/)
 
-## [Stream Link](https://youtu.be/XzusKDb9cHs?t=15m34s) ~20min
+## [Stream Link](https://www.pscp.tv/zeithq/1BRKjrvoyYZKw?t=36m19s) ~20min
 
-[![](talk.png)](https://youtu.be/XzusKDb9cHs?t=15m34s)
+[![](talk.png)](https://www.pscp.tv/zeithq/1BRKjrvoyYZKw?t=36m19s)
+
+## Video TBD
 
 ## Other Related Talks
 
